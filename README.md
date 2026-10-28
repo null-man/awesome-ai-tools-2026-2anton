@@ -58,6 +58,9 @@ Download the complete catalog with prices, ratings, and best-use cases for each 
 | [KDA Firestarter AI Dance](https://kdafirestarterai.dev) | Paid from $7.99 | Photo → 13s 21:9 solo dance (unofficial) | ★★★★☆ |
 | [A2O LITE NEON AI Dance](https://a2oliteai.org) | Paid from $7.99 | Two photos → 15s neon duo dance | ★★★★☆ |
 | [dime dime baby ai](https://dimedimebabyai.dev) | Paid from $7.99 | Photo → ~5s 9:16 AI dance | ★★★★☆ |
+| [PromptImage](https://promptimage.cloud) | Freemium | Free AI image & video studio with prompt library. | Signup credits; multi-model |
+| [TeslaWraps](https://teslawraps.design) | Freemium | Browser Tesla wrap designer; core editing free. | No account needed for core edit |
+| [GrokVideo Studio](https://grokvideogenerator.dev) | Free Trial | Independent text/image-to-video via Grok Imagine API. | Not affiliated with xAI/X |
 
 ## Productivity & Automation
 
