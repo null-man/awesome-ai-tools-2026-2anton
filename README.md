@@ -61,6 +61,9 @@ Download the complete catalog with prices, ratings, and best-use cases for each 
 | [PromptImage](https://promptimage.cloud) | Freemium | Free AI image & video studio with prompt library. | Signup credits; multi-model |
 | [TeslaWraps](https://teslawraps.design) | Freemium | Browser Tesla wrap designer; core editing free. | No account needed for core edit |
 | [GrokVideo Studio](https://grokvideogenerator.dev) | Free Trial | Independent text/image-to-video via Grok Imagine API. | Not affiliated with xAI/X |
+| [Alors On Danse Video Maker](https://alorsondansevideo.com) | Paid from $7.99 | Photo → ~5s 9:16 AI dance | ★★★★☆ |
+| [Bad Times AI](https://badtimesai.dev) | Paid from $7.99 | Photo → ~5s 9:16 AI dance | ★★★★☆ |
+| [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) | Paid from $7.99 | Photo → ~5s 9:16 AI dance | ★★★★☆ |
 
 ## Productivity & Automation
 
